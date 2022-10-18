@@ -1,0 +1,16 @@
+{
+  "name": "ytdl-download",
+  "version": "1.0.0",
+  "description": "A youtube downloader. OBVIOUSLY",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "ParthivMan12",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "ytdl-core": "^4.11.2"
+  }
+}
